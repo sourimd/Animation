@@ -1,0 +1,15 @@
+Name: Sourim Das
+Clemson Email Address: sourimd@g.clemson.edu
+CPSC8700: OO Software Design
+
+Project No: 3
+Project Due Date: 26-Sept-2014
+Project Description: Introduction To Animation with SDL
+
+The Specs that I implemented: All
+Extras: I have made the background as sprite with velociy 0,0 and start location 0,0
+The tag backgroundin game.xml corresponds to that.
+The xml tag that corresponds to flying sprites is football. The number of sprites to
+be displayed is in the number xml tag with this football tag.
+With Dr. Malloy's permission permission I am resubmitting my project today, i.e. on 
+29th Sept and he said that he won't be pinalizing me for that.
